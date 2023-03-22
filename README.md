@@ -1,4 +1,4 @@
--  <h1> Hi, I’m @Gokzeux. </h1>
+-  <h1> Hi, I’m @Gökhan. </h1>
 -  
 - I’m interested in Html,CSS,boostrap,Javascript,PHP,video editing.
 - 💞️ I’m looking to collaborate on website.
