@@ -6,8 +6,6 @@
 - I have 3 projects that I have done from start to finish.
 - I have 2 E-Commerce projects.
 - I also got freelance jobs on Fiver and my close circle.
-- http://gokhan.webprojeleri.name.tr (Wordpress Site)
-- https://www.gokhanphp.webprojeleri.name.tr (One of my projects).
 
 <!---
 Gokzeux/Gokzeux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
